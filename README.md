@@ -1,6 +1,6 @@
 #     Real-Time Video Captioning
 
-Humans are able to able to identify objects and describe what we see with great accuracy even with a small glimpse. Although this is a trivial thing for us, it is challenging for machines.
+Humans are able to identify objects and describe what we see with great accuracy even with a small glimpse. Although this is a trivial thing for us, it is challenging for machines.
 
 Some of the top performing Convolutional Neural Networks (CNNs) on the ImageNet challenge such as VGG16, AlexNet and InceptionV3 are able to classify images very accurately between a 1000 different classes. However they alone are not capable of generating human-readable captions or descriptions of a given image.
 
