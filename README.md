@@ -16,29 +16,29 @@ This can have many real life use cases like Assault Detection, Detect if a perso
 I have posted some of the predictions below.
 As you’ll can see the model is able to describe some frames really well. 
 
-![](images/Picture0)
+![](images/Picture0.png)
 
 
-![](images/Picture1)
+![](images/Picture1.png)
 
 
-![](images/Picture2)
+![](images/Picture2.png)
 
 
-![](images/Picture3)
+![](images/Picture3.png)
 
 
-![](images/Picture4)
+![](images/Picture4.png)
 
 
 # Fails: (Some really big fails.)
 
 What is Machine Learning without some misfire.
 
-![](images/fail1)
+![](images/fail1.png)
 
 
-![](images/fail2)
+![](images/fail2.png)
 
 
 As you’ll can see not all captions make sense. There is still room for some fine-tuning and can be further trained on a larger dataset (Flickr30k or MS-Coco).
