@@ -31,7 +31,7 @@ As you’ll can see the model is able to describe some frames really well.
 ![](images/Picture4.png)
 
 
-# Fails: (Some really big fails.)
+### Fails: (Some really big fails.)
 
 What is Machine Learning without some misfire.
 
@@ -46,6 +46,7 @@ As you’ll can see not all captions make sense. There is still room for some fi
 Thank you for reading. 
 
 References:
+
 1]Deep Visual-Semantic Alignments for Generating Image Desccriptions, 2015
 
 2]Show and Tell: A Neural Image Caption Generator, 2015
