@@ -47,6 +47,10 @@ Thank you for reading.
 
 References:
 1]Deep Visual-Semantic Alignments for Generating Image Desccriptions, 2015
+
 2]Show and Tell: A Neural Image Caption Generator, 2015
+
 3]Long-term Recurrent Convolutional Networks for Visual Recognition and Description, 2015
+
 4]Deep Learning Photo Caption Generator, Jason Brownlee
+
