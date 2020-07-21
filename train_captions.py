@@ -121,7 +121,7 @@ print(MAX_LENGTH, avg_length)
 
 
 #Embedding
-glove_path = "D:\Downloads\Data Science\Glove\glove.6B.300d.txt"    
+glove_path = "Glove\glove.6B.300d.txt"    
 
 embeddings_index = {} # empty dictionary
 f = open(glove_path, encoding="utf-8")
